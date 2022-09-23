@@ -11,6 +11,17 @@ struct Student {
 	char* name;
 };
 
+
+void AddData() {
+
+}
+
+void UpdateUser() {
+
+}
+
+
+
 void main() {
 
 	cout << "Hello Git system" << endl;
